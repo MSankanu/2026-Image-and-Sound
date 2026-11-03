@@ -4,3 +4,4 @@ matplotlib
 altair
 vl-convert-python
 requests
+geopandas
