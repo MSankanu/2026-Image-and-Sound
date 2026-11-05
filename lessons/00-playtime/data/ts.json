@@ -1,0 +1,837 @@
+{
+  "data": {
+    "lookupStatus": "found",
+    "profile": {
+      "platform": "truthsocial",
+      "id": "107780257626128497",
+      "handle": "realDonaldTrump",
+      "displayName": "Donald J. Trump",
+      "bio": null,
+      "profileUrl": "https://truthsocial.com/@realDonaldTrump",
+      "avatarUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+      "headerUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/headers/107/780/257/626/128/497/original/ba3b910ba387bf4e.jpeg",
+      "websiteUrl": "https://www.donaldjtrump.com/",
+      "location": null,
+      "createdAt": "2022-02-11T16:16:57.705Z",
+      "lastStatusAt": "2026-11-05",
+      "isVerified": true,
+      "isLocked": false,
+      "isBot": false,
+      "metrics": {
+        "followers": 13169658,
+        "following": 67,
+        "posts": 38324
+      }
+    },
+    "posts": [
+      {
+        "id": "117564115835486203",
+        "url": "https://truthsocial.com/@realDonaldTrump/117564115835486203",
+        "createdAt": "2026-11-05T13:40:44.851Z",
+        "editedAt": null,
+        "text": "The vote totals for the Fake Dan Sullivan, plus the other “slug” that the Dems put on the Ballot, should be immediately given to the REAL Dan Sullivan, and the Election is over - He easily wins. There is no other fair solution! President DJT",
+        "spoilerText": null,
+        "language": "en",
+        "visibility": "public",
+        "isSensitive": false,
+        "author": {
+          "platform": "truthsocial",
+          "id": "107780257626128497",
+          "handle": "realDonaldTrump",
+          "displayName": "Donald J. Trump",
+          "avatarUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+          "isVerified": true,
+          "profileUrl": "https://truthsocial.com/@realDonaldTrump"
+        },
+        "inReplyToStatusId": null,
+        "inReplyToAccountId": null,
+        "quoteId": null,
+        "repostOfId": null,
+        "metrics": {
+          "replies": 2088,
+          "reposts": 2696,
+          "favorites": 9888,
+          "upvotes": 9888,
+          "downvotes": 0
+        },
+        "media": [],
+        "linkPreview": null,
+        "poll": null,
+        "quote": null
+      },
+      {
+        "id": "117564043402069442",
+        "url": "https://truthsocial.com/@realDonaldTrump/117564043402069442",
+        "createdAt": "2026-11-05T13:22:19.607Z",
+        "editedAt": null,
+        "text": "https://truthsocial.com/@WhiteHouse/117550235500967429",
+        "spoilerText": null,
+        "language": null,
+        "visibility": "public",
+        "isSensitive": false,
+        "author": {
+          "platform": "truthsocial",
+          "id": "107780257626128497",
+          "handle": "realDonaldTrump",
+          "displayName": "Donald J. Trump",
+          "avatarUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+          "isVerified": true,
+          "profileUrl": "https://truthsocial.com/@realDonaldTrump"
+        },
+        "inReplyToStatusId": null,
+        "inReplyToAccountId": null,
+        "quoteId": null,
+        "repostOfId": null,
+        "metrics": {
+          "replies": 543,
+          "reposts": 1310,
+          "favorites": 5580,
+          "upvotes": 5580,
+          "downvotes": 0
+        },
+        "media": [],
+        "linkPreview": {
+          "url": "https://truthsocial.com/@WhiteHouse/117550235500967429",
+          "title": "The White House (@WhiteHouse)",
+          "description": "Decline was a choice.\n\nPresident Donald J. Trump made D.C. beautiful again, restoring greatness in our nation's capital and a country we are proud to call home. 🇺🇸",
+          "providerName": "truthsocial.com",
+          "imageUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/cache/preview_cards/images/078/730/641/original/c2ed3e453d3f2e04.jpg"
+        },
+        "poll": null,
+        "quote": null
+      },
+      {
+        "id": "117563218876256792",
+        "url": "https://truthsocial.com/@realDonaldTrump/117563218876256792",
+        "createdAt": "2026-11-05T09:52:38.343Z",
+        "editedAt": null,
+        "text": null,
+        "spoilerText": null,
+        "language": null,
+        "visibility": "public",
+        "isSensitive": false,
+        "author": {
+          "platform": "truthsocial",
+          "id": "107780257626128497",
+          "handle": "realDonaldTrump",
+          "displayName": "Donald J. Trump",
+          "avatarUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+          "isVerified": true,
+          "profileUrl": "https://truthsocial.com/@realDonaldTrump"
+        },
+        "inReplyToStatusId": null,
+        "inReplyToAccountId": null,
+        "quoteId": null,
+        "repostOfId": null,
+        "metrics": {
+          "replies": 2422,
+          "reposts": 3452,
+          "favorites": 12614,
+          "upvotes": 12614,
+          "downvotes": 0
+        },
+        "media": [
+          {
+            "type": "image",
+            "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/563/218/050/480/390/original/5866786469c40e19.jpg",
+            "previewUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/563/218/050/480/390/small/5866786469c40e19.jpg",
+            "description": null,
+            "width": 935,
+            "height": 1097,
+            "durationSeconds": null
+          }
+        ],
+        "linkPreview": null,
+        "poll": null,
+        "quote": null
+      },
+      {
+        "id": "117560785494219046",
+        "url": "https://truthsocial.com/@realDonaldTrump/117560785494219046",
+        "createdAt": "2026-11-04T23:33:47.879Z",
+        "editedAt": null,
+        "text": "Too bad the Senate has not yet approved the Sunshine Protection Act or, the I Don’t Want to Change My Clocks Anymore Act. It’s so dark outside, so early (Sunset was 5:06 P.M., and it was dark by 5:31 P.M. — Isn’t that ridiculous?). Just a few days ago it was so nice and sunny at this same time. In addition, everyone’s been running around changing their clocks all over the place. I didn’t want to make a big deal out of this prior to the Election because I didn’t want to have certain Senators lose their Race, in a landslide, but it is too bad they can’t get it done. The House sent it over to the Senate with great bipartisan support, numerous times (308-117), but the Senate didn’t take it up. We have far bigger priorities, but I will keep fighting for this! President DONALD J. TRUMP",
+        "spoilerText": null,
+        "language": "en",
+        "visibility": "public",
+        "isSensitive": false,
+        "author": {
+          "platform": "truthsocial",
+          "id": "107780257626128497",
+          "handle": "realDonaldTrump",
+          "displayName": "Donald J. Trump",
+          "avatarUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+          "isVerified": true,
+          "profileUrl": "https://truthsocial.com/@realDonaldTrump"
+        },
+        "inReplyToStatusId": null,
+        "inReplyToAccountId": null,
+        "quoteId": null,
+        "repostOfId": null,
+        "metrics": {
+          "replies": 9454,
+          "reposts": 7139,
+          "favorites": 35262,
+          "upvotes": 35262,
+          "downvotes": 0
+        },
+        "media": [],
+        "linkPreview": null,
+        "poll": null,
+        "quote": null
+      },
+      {
+        "id": "117559346773956882",
+        "url": "https://truthsocial.com/@realDonaldTrump/117559346773956882",
+        "createdAt": "2026-11-04T17:27:54.749Z",
+        "editedAt": null,
+        "text": "Stock Market just hit another Record High — 91 Days in just a short period of time — Less than two years. Your 401(k)s are through the roof. Record Setting All! President DONALD J. TRUMP",
+        "spoilerText": null,
+        "language": "en",
+        "visibility": "public",
+        "isSensitive": false,
+        "author": {
+          "platform": "truthsocial",
+          "id": "107780257626128497",
+          "handle": "realDonaldTrump",
+          "displayName": "Donald J. Trump",
+          "avatarUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+          "isVerified": true,
+          "profileUrl": "https://truthsocial.com/@realDonaldTrump"
+        },
+        "inReplyToStatusId": null,
+        "inReplyToAccountId": null,
+        "quoteId": null,
+        "repostOfId": null,
+        "metrics": {
+          "replies": 7357,
+          "reposts": 5250,
+          "favorites": 25105,
+          "upvotes": 25105,
+          "downvotes": 0
+        },
+        "media": [],
+        "linkPreview": null,
+        "poll": null,
+        "quote": null
+      },
+      {
+        "id": "117559258818754450",
+        "url": "https://truthsocial.com/@realDonaldTrump/117559258818754450",
+        "createdAt": "2026-11-04T17:05:32.662Z",
+        "editedAt": null,
+        "text": null,
+        "spoilerText": null,
+        "language": null,
+        "visibility": "public",
+        "isSensitive": false,
+        "author": {
+          "platform": "truthsocial",
+          "id": "107780257626128497",
+          "handle": "realDonaldTrump",
+          "displayName": "Donald J. Trump",
+          "avatarUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+          "isVerified": true,
+          "profileUrl": "https://truthsocial.com/@realDonaldTrump"
+        },
+        "inReplyToStatusId": null,
+        "inReplyToAccountId": null,
+        "quoteId": null,
+        "repostOfId": null,
+        "metrics": {
+          "replies": 2586,
+          "reposts": 4040,
+          "favorites": 16972,
+          "upvotes": 16972,
+          "downvotes": 0
+        },
+        "media": [
+          {
+            "type": "image",
+            "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/559/223/317/191/343/original/818cc44549b431a3.jpg",
+            "previewUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/559/223/317/191/343/small/818cc44549b431a3.jpg",
+            "description": null,
+            "width": 970,
+            "height": 1060,
+            "durationSeconds": null
+          },
+          {
+            "type": "image",
+            "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/559/223/316/176/520/original/b441fd377500e902.jpg",
+            "previewUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/559/223/316/176/520/small/b441fd377500e902.jpg",
+            "description": null,
+            "width": 958,
+            "height": 1072,
+            "durationSeconds": null
+          },
+          {
+            "type": "image",
+            "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/559/226/421/740/875/original/1d36bd589dac2a29.jpg",
+            "previewUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/559/226/421/740/875/small/1d36bd589dac2a29.jpg",
+            "description": null,
+            "width": 976,
+            "height": 1052,
+            "durationSeconds": null
+          }
+        ],
+        "linkPreview": null,
+        "poll": null,
+        "quote": null
+      },
+      {
+        "id": "117556376518256698",
+        "url": "https://truthsocial.com/@realDonaldTrump/117556376518256698",
+        "createdAt": "2026-11-04T04:52:32.242Z",
+        "editedAt": null,
+        "text": "Why does FoxNews have Bill de Blasio, the Worst Mayor in the History of New York City, on air, ranting and raving like a Lunatic? He left the City in disgrace, and the damage he caused was incalculable — It has never been the same, and now he’s telling us how to run America. FoxNews bears responsibility for these losses by constantly and consistently putting on the Dumocrat opposition, and worse. GOD BLESS AMERICA! President DONALD J. TRUMP",
+        "spoilerText": null,
+        "language": "en",
+        "visibility": "public",
+        "isSensitive": false,
+        "author": {
+          "platform": "truthsocial",
+          "id": "107780257626128497",
+          "handle": "realDonaldTrump",
+          "displayName": "Donald J. Trump",
+          "avatarUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+          "isVerified": true,
+          "profileUrl": "https://truthsocial.com/@realDonaldTrump"
+        },
+        "inReplyToStatusId": null,
+        "inReplyToAccountId": null,
+        "quoteId": null,
+        "repostOfId": null,
+        "metrics": {
+          "replies": 12048,
+          "reposts": 6677,
+          "favorites": 33453,
+          "upvotes": 33453,
+          "downvotes": 0
+        },
+        "media": [],
+        "linkPreview": null,
+        "poll": null,
+        "quote": null
+      },
+      {
+        "id": "117556328694376584",
+        "url": "https://truthsocial.com/@realDonaldTrump/117556328694376584",
+        "createdAt": "2026-11-04T04:40:22.509Z",
+        "editedAt": null,
+        "text": null,
+        "spoilerText": null,
+        "language": null,
+        "visibility": "public",
+        "isSensitive": false,
+        "author": {
+          "platform": "truthsocial",
+          "id": "107780257626128497",
+          "handle": "realDonaldTrump",
+          "displayName": "Donald J. Trump",
+          "avatarUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+          "isVerified": true,
+          "profileUrl": "https://truthsocial.com/@realDonaldTrump"
+        },
+        "inReplyToStatusId": null,
+        "inReplyToAccountId": null,
+        "quoteId": null,
+        "repostOfId": null,
+        "metrics": {
+          "replies": 9172,
+          "reposts": 9218,
+          "favorites": 40856,
+          "upvotes": 40856,
+          "downvotes": 0
+        },
+        "media": [
+          {
+            "type": "image",
+            "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/556/327/131/537/234/original/a4e5991d0e10e0b0.jpg",
+            "previewUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/556/327/131/537/234/small/a4e5991d0e10e0b0.jpg",
+            "description": null,
+            "width": 1037,
+            "height": 991,
+            "durationSeconds": null
+          }
+        ],
+        "linkPreview": null,
+        "poll": null,
+        "quote": null
+      },
+      {
+        "id": "117556320287218255",
+        "url": "https://truthsocial.com/@realDonaldTrump/117556320287218255",
+        "createdAt": "2026-11-04T04:38:14.224Z",
+        "editedAt": null,
+        "text": "I’m going to become a Political Pundit, both good and bad, on the reasons these Candidates won and lost! President DONALD J. TRUMP",
+        "spoilerText": null,
+        "language": "en",
+        "visibility": "public",
+        "isSensitive": false,
+        "author": {
+          "platform": "truthsocial",
+          "id": "107780257626128497",
+          "handle": "realDonaldTrump",
+          "displayName": "Donald J. Trump",
+          "avatarUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+          "isVerified": true,
+          "profileUrl": "https://truthsocial.com/@realDonaldTrump"
+        },
+        "inReplyToStatusId": null,
+        "inReplyToAccountId": null,
+        "quoteId": null,
+        "repostOfId": null,
+        "metrics": {
+          "replies": 6430,
+          "reposts": 5539,
+          "favorites": 29860,
+          "upvotes": 29860,
+          "downvotes": 0
+        },
+        "media": [],
+        "linkPreview": null,
+        "poll": null,
+        "quote": null
+      },
+      {
+        "id": "117556309377726931",
+        "url": "https://truthsocial.com/@realDonaldTrump/117556309377726931",
+        "createdAt": "2026-11-04T04:35:27.759Z",
+        "editedAt": null,
+        "text": "If Greg Abbott, the Governor of Texas, hadn’t become a RINO in the last six months of his Political Life, he wouldn’t have lost. He went back to his original formula, and it wasn’t pretty! President DONALD J. TRUMP",
+        "spoilerText": null,
+        "language": "en",
+        "visibility": "public",
+        "isSensitive": false,
+        "author": {
+          "platform": "truthsocial",
+          "id": "107780257626128497",
+          "handle": "realDonaldTrump",
+          "displayName": "Donald J. Trump",
+          "avatarUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+          "isVerified": true,
+          "profileUrl": "https://truthsocial.com/@realDonaldTrump"
+        },
+        "inReplyToStatusId": null,
+        "inReplyToAccountId": null,
+        "quoteId": null,
+        "repostOfId": null,
+        "metrics": {
+          "replies": 4315,
+          "reposts": 5309,
+          "favorites": 27545,
+          "upvotes": 27545,
+          "downvotes": 0
+        },
+        "media": [],
+        "linkPreview": null,
+        "poll": null,
+        "quote": null
+      },
+      {
+        "id": "117556082339815131",
+        "url": "https://truthsocial.com/@realDonaldTrump/117556082339815131",
+        "createdAt": "2026-11-04T03:37:43.436Z",
+        "editedAt": null,
+        "text": "I wasn’t on the Ballot and if I was, we would have won IN A LANDSLIDE! Thank you for your attention to this matter. President DONALD J. TRUMP",
+        "spoilerText": null,
+        "language": "en",
+        "visibility": "public",
+        "isSensitive": false,
+        "author": {
+          "platform": "truthsocial",
+          "id": "107780257626128497",
+          "handle": "realDonaldTrump",
+          "displayName": "Donald J. Trump",
+          "avatarUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+          "isVerified": true,
+          "profileUrl": "https://truthsocial.com/@realDonaldTrump"
+        },
+        "inReplyToStatusId": null,
+        "inReplyToAccountId": null,
+        "quoteId": null,
+        "repostOfId": null,
+        "metrics": {
+          "replies": 16859,
+          "reposts": 5441,
+          "favorites": 29273,
+          "upvotes": 29273,
+          "downvotes": 0
+        },
+        "media": [],
+        "linkPreview": null,
+        "poll": null,
+        "quote": null
+      },
+      {
+        "id": "117555228889927200",
+        "url": "https://truthsocial.com/@realDonaldTrump/117555228889927200",
+        "createdAt": "2026-11-04T00:00:40.825Z",
+        "editedAt": null,
+        "text": "FoxNews Ratings are way down (27%!) because they’re spending too much time covering the Trump Deranged Dumocrats! All of those people who used to watch Fox, and no longer do, get it. It’s them, not me — My numbers are better than they have ever been. The new CNN Poll stated that “TRUMP” is at 99% among Republicans and, among Republican Presidents, “TRUMP” is at 53%, compared to Ronald Reagan at 18%, and Abraham Lincoln at 8%! Fox knows this, and so does everyone else! Also, why is Fox Corp. spending so much money donating to the Worst of the Worst, including Hakeem Jeffries, Jamie Raskin, Ted Lieu, Pete Aguilar, the California Dumocratic Party, the Dumocratic Congressional Campaign Committee, the Dumocratic Senatorial Campaign Committee, the Congressional Black Caucus PAC, the CHC Bold PAC, and the New Dumocrat Coalition Action Fund, among others? No wonder FoxNews Ratings are collapsing, and they’re going to go down a lot further. They’re way down, not because of me, but because they are AGAINST me! This happened once before, and Fox almost collapsed. It’s happening again! President DONALD J. TRUMP",
+        "spoilerText": null,
+        "language": "en",
+        "visibility": "public",
+        "isSensitive": false,
+        "author": {
+          "platform": "truthsocial",
+          "id": "107780257626128497",
+          "handle": "realDonaldTrump",
+          "displayName": "Donald J. Trump",
+          "avatarUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+          "isVerified": true,
+          "profileUrl": "https://truthsocial.com/@realDonaldTrump"
+        },
+        "inReplyToStatusId": null,
+        "inReplyToAccountId": null,
+        "quoteId": null,
+        "repostOfId": null,
+        "metrics": {
+          "replies": 9278,
+          "reposts": 6619,
+          "favorites": 29054,
+          "upvotes": 29054,
+          "downvotes": 0
+        },
+        "media": [],
+        "linkPreview": null,
+        "poll": null,
+        "quote": null
+      },
+      {
+        "id": "117555192941614752",
+        "url": "https://truthsocial.com/@realDonaldTrump/117555192941614752",
+        "createdAt": "2026-11-03T23:51:32.297Z",
+        "editedAt": null,
+        "text": null,
+        "spoilerText": null,
+        "language": null,
+        "visibility": "public",
+        "isSensitive": false,
+        "author": {
+          "platform": "truthsocial",
+          "id": "107780257626128497",
+          "handle": "realDonaldTrump",
+          "displayName": "Donald J. Trump",
+          "avatarUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+          "isVerified": true,
+          "profileUrl": "https://truthsocial.com/@realDonaldTrump"
+        },
+        "inReplyToStatusId": null,
+        "inReplyToAccountId": null,
+        "quoteId": null,
+        "repostOfId": null,
+        "metrics": {
+          "replies": 1685,
+          "reposts": 3863,
+          "favorites": 17975,
+          "upvotes": 17975,
+          "downvotes": 0
+        },
+        "media": [
+          {
+            "type": "video",
+            "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/555/192/637/633/590/original/d9b826f898ae7d06.mp4",
+            "previewUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/thumbnails/117/555/192/637/633/590/original/e65b3791c1da3759.jpg",
+            "description": null,
+            "width": 1280,
+            "height": 720,
+            "durationSeconds": 39.775782
+          }
+        ],
+        "linkPreview": null,
+        "poll": null,
+        "quote": null
+      },
+      {
+        "id": "117555191396704437",
+        "url": "https://truthsocial.com/@realDonaldTrump/117555191396704437",
+        "createdAt": "2026-11-03T23:51:08.724Z",
+        "editedAt": null,
+        "text": null,
+        "spoilerText": null,
+        "language": null,
+        "visibility": "public",
+        "isSensitive": false,
+        "author": {
+          "platform": "truthsocial",
+          "id": "107780257626128497",
+          "handle": "realDonaldTrump",
+          "displayName": "Donald J. Trump",
+          "avatarUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+          "isVerified": true,
+          "profileUrl": "https://truthsocial.com/@realDonaldTrump"
+        },
+        "inReplyToStatusId": null,
+        "inReplyToAccountId": null,
+        "quoteId": null,
+        "repostOfId": null,
+        "metrics": {
+          "replies": 847,
+          "reposts": 2767,
+          "favorites": 13571,
+          "upvotes": 13571,
+          "downvotes": 0
+        },
+        "media": [
+          {
+            "type": "video",
+            "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/555/191/040/321/048/original/e034be451aca4503.mp4",
+            "previewUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/thumbnails/117/555/191/040/321/048/original/a880763a658755ac.jpg",
+            "description": null,
+            "width": 1280,
+            "height": 720,
+            "durationSeconds": 43.220998
+          }
+        ],
+        "linkPreview": null,
+        "poll": null,
+        "quote": null
+      },
+      {
+        "id": "117555132125642508",
+        "url": "https://truthsocial.com/@realDonaldTrump/117555132125642508",
+        "createdAt": "2026-11-03T23:36:04.318Z",
+        "editedAt": null,
+        "text": "The FoxNews Poll, always the worst, is so insulting with the questions they ask. Every question is a hit job, and every answer is \"BULLSHIT!\" This has been going on for years. President DONALD J. TRUMP",
+        "spoilerText": null,
+        "language": "en",
+        "visibility": "public",
+        "isSensitive": false,
+        "author": {
+          "platform": "truthsocial",
+          "id": "107780257626128497",
+          "handle": "realDonaldTrump",
+          "displayName": "Donald J. Trump",
+          "avatarUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+          "isVerified": true,
+          "profileUrl": "https://truthsocial.com/@realDonaldTrump"
+        },
+        "inReplyToStatusId": null,
+        "inReplyToAccountId": null,
+        "quoteId": null,
+        "repostOfId": null,
+        "metrics": {
+          "replies": 2563,
+          "reposts": 4736,
+          "favorites": 22425,
+          "upvotes": 22425,
+          "downvotes": 0
+        },
+        "media": [],
+        "linkPreview": null,
+        "poll": null,
+        "quote": null
+      },
+      {
+        "id": "117555006718532273",
+        "url": "https://truthsocial.com/@realDonaldTrump/117555006718532273",
+        "createdAt": "2026-11-03T23:04:10.758Z",
+        "editedAt": null,
+        "text": "KENTUCKY CLOSING SOON. A BIG DEAL! President DJT",
+        "spoilerText": null,
+        "language": "lb",
+        "visibility": "public",
+        "isSensitive": false,
+        "author": {
+          "platform": "truthsocial",
+          "id": "107780257626128497",
+          "handle": "realDonaldTrump",
+          "displayName": "Donald J. Trump",
+          "avatarUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+          "isVerified": true,
+          "profileUrl": "https://truthsocial.com/@realDonaldTrump"
+        },
+        "inReplyToStatusId": null,
+        "inReplyToAccountId": null,
+        "quoteId": null,
+        "repostOfId": null,
+        "metrics": {
+          "replies": 967,
+          "reposts": 3031,
+          "favorites": 16825,
+          "upvotes": 16825,
+          "downvotes": 0
+        },
+        "media": [],
+        "linkPreview": null,
+        "poll": null,
+        "quote": null
+      },
+      {
+        "id": "117554852721008421",
+        "url": "https://truthsocial.com/@realDonaldTrump/117554852721008421",
+        "createdAt": "2026-11-03T22:25:00.943Z",
+        "editedAt": null,
+        "text": "Watching the Pre-Election Results on FoxNews, but I can't stand Jessica Tarlov's voice — DUMB AS A ROCK, but it's the voice that gets me. Have to go somewhere else until that LOSER is off the air — I'll be back later! President DONALD J. TRUMP",
+        "spoilerText": null,
+        "language": "en",
+        "visibility": "public",
+        "isSensitive": false,
+        "author": {
+          "platform": "truthsocial",
+          "id": "107780257626128497",
+          "handle": "realDonaldTrump",
+          "displayName": "Donald J. Trump",
+          "avatarUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+          "isVerified": true,
+          "profileUrl": "https://truthsocial.com/@realDonaldTrump"
+        },
+        "inReplyToStatusId": null,
+        "inReplyToAccountId": null,
+        "quoteId": null,
+        "repostOfId": null,
+        "metrics": {
+          "replies": 3973,
+          "reposts": 4629,
+          "favorites": 24157,
+          "upvotes": 24157,
+          "downvotes": 0
+        },
+        "media": [],
+        "linkPreview": null,
+        "poll": null,
+        "quote": null
+      },
+      {
+        "id": "117554752273368318",
+        "url": "https://truthsocial.com/@realDonaldTrump/117554752273368318",
+        "createdAt": "2026-11-03T21:59:28.233Z",
+        "editedAt": null,
+        "text": "RT @realDonaldTrump",
+        "spoilerText": null,
+        "language": null,
+        "visibility": "public",
+        "isSensitive": false,
+        "author": {
+          "platform": "truthsocial",
+          "id": "107780257626128497",
+          "handle": "realDonaldTrump",
+          "displayName": "Donald J. Trump",
+          "avatarUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+          "isVerified": true,
+          "profileUrl": "https://truthsocial.com/@realDonaldTrump"
+        },
+        "inReplyToStatusId": null,
+        "inReplyToAccountId": null,
+        "quoteId": null,
+        "repostOfId": "117553803718572465",
+        "metrics": {
+          "replies": 0,
+          "reposts": 0,
+          "favorites": 1,
+          "upvotes": 1,
+          "downvotes": 0
+        },
+        "media": [],
+        "linkPreview": null,
+        "poll": null,
+        "quote": null
+      },
+      {
+        "id": "117554563852726181",
+        "url": "https://truthsocial.com/@realDonaldTrump/117554563852726181",
+        "createdAt": "2026-11-03T21:11:33.163Z",
+        "editedAt": null,
+        "text": null,
+        "spoilerText": null,
+        "language": null,
+        "visibility": "public",
+        "isSensitive": false,
+        "author": {
+          "platform": "truthsocial",
+          "id": "107780257626128497",
+          "handle": "realDonaldTrump",
+          "displayName": "Donald J. Trump",
+          "avatarUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+          "isVerified": true,
+          "profileUrl": "https://truthsocial.com/@realDonaldTrump"
+        },
+        "inReplyToStatusId": null,
+        "inReplyToAccountId": null,
+        "quoteId": "117554562841729326",
+        "repostOfId": null,
+        "metrics": {
+          "replies": 1272,
+          "reposts": 3533,
+          "favorites": 12733,
+          "upvotes": 12733,
+          "downvotes": 0
+        },
+        "media": [
+          {
+            "type": "image",
+            "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/554/563/634/222/330/original/769b80bb1016bd7c.png",
+            "previewUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/554/563/634/222/330/small/769b80bb1016bd7c.png",
+            "description": null,
+            "width": 882,
+            "height": 872,
+            "durationSeconds": null
+          }
+        ],
+        "linkPreview": null,
+        "poll": null,
+        "quote": {
+          "id": "117554562841729326",
+          "url": "https://truthsocial.com/@realDonaldTrump/117554562841729326",
+          "text": null,
+          "authorHandle": "realDonaldTrump"
+        }
+      },
+      {
+        "id": "117554562841729326",
+        "url": "https://truthsocial.com/@realDonaldTrump/117554562841729326",
+        "createdAt": "2026-11-03T21:11:17.737Z",
+        "editedAt": null,
+        "text": null,
+        "spoilerText": null,
+        "language": null,
+        "visibility": "public",
+        "isSensitive": false,
+        "author": {
+          "platform": "truthsocial",
+          "id": "107780257626128497",
+          "handle": "realDonaldTrump",
+          "displayName": "Donald J. Trump",
+          "avatarUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/accounts/avatars/107/780/257/626/128/497/original/454286ac07a6f6e6.jpeg",
+          "isVerified": true,
+          "profileUrl": "https://truthsocial.com/@realDonaldTrump"
+        },
+        "inReplyToStatusId": null,
+        "inReplyToAccountId": null,
+        "quoteId": null,
+        "repostOfId": null,
+        "metrics": {
+          "replies": 404,
+          "reposts": 2112,
+          "favorites": 9131,
+          "upvotes": 9131,
+          "downvotes": 0
+        },
+        "media": [
+          {
+            "type": "video",
+            "url": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/files/117/554/562/311/771/885/original/916a7595bd30d5d7.mp4",
+            "previewUrl": "https://static-assets-1.truthsocial.com/tmtg:prime-ts-assets/media_attachments/thumbnails/117/554/562/311/771/885/original/0b8d2fd60e6c993c.jpg",
+            "description": null,
+            "width": 1280,
+            "height": 720,
+            "durationSeconds": 278.2
+          }
+        ],
+        "linkPreview": null,
+        "poll": null,
+        "quote": null
+      }
+    ],
+    "page": {
+      "hasMore": true,
+      "nextCursor": "eyJ2IjoxLCJoYW5kbGUiOiJyZWFsRG9uYWxkVHJ1bXAiLCJtYXhJZCI6IjExNzU1NDU2Mjg0MTcyOTMyNiIsImFjY291bnRJZCI6IjEwNzc4MDI1NzYyNjEyODQ5NyJ9"
+    }
+  },
+  "meta": {
+    "requestId": "req_f308c482-da3f-4101-94cb-cbb8224e8e59_pg_15a053fc",
+    "creditsCharged": 2,
+    "version": "v1"
+  }
+}
