@@ -24,7 +24,7 @@ Never paste your OpenRouter key into a notebook or any file here: your fork is p
 3. Before you leave: open Source Control (the branching icon), type a short
    note, and click **Commit**. Your work is now saved to GitHub.
 
-## What's here
+## What's here (at the start)
 
 | Path | What it is |
 |---|---|
