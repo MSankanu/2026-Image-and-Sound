@@ -5,3 +5,4 @@ altair
 vl-convert-python
 requests
 geopandas
+cryptography
